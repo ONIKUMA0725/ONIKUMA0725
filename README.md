@@ -1,7 +1,6 @@
 - 👋 Hola, Soy @ONIKUMA0725
 - 👀 Estoy interesado en la programacion, Electronica y entre otras cosas más 
-- 🌱Actualmente estoy aprendiendo algunos lenguajes de Programacion como Python,C++ entre otros ya tambien algo de desarrolo web
-- 📫 Puedes buscarme ne mi red Social de Tiktok y seguirme por hay
+- 🌱Actualmente estoy aprendiendo algunos lenguajes de Programacion como Python, C++ entre otros, y tambien algo de desarrolo web
 - 😄 Pronombres: me puedes llamar por Onikuma0725 o solo Onikuma
 
 <!---
